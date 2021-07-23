@@ -11,12 +11,12 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
--·-·<mule.maven.plugin.version>3.5.1</mule.maven.plugin.version>
+	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<mule.maven.plugin.version>3.5.1</mule.maven.plugin.version>
 		<app.name>{{ app_name }}</app.name>
 		<app.runtime>4.3.0</app.runtime>
--·-·<app.version>1.0.0-SNAPSHOT</app.version>
--·-·<app.packaging>mule-application</app.packaging>
+		<app.version>1.0.0-SNAPSHOT</app.version>
+		<app.packaging>mule-application</app.packaging>
 	</properties>
 
 	<build>
